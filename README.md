@@ -16,5 +16,5 @@
 - **野蛮奔跑**：Can be done
 - **不忘初心**：We dont't forget the original intention
 - **拥抱变化**：Embrace change
-- **我们只靠产品说话**：Quality is this best business plan
+- **我们只靠产品说话**：Quality is the best business plan
 - **用正确的方法做正确的事**：Do right thing right
